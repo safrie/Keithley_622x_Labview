@@ -1,1 +1,1 @@
-This is an old, abandoned project I did in Labview for the Keithley 6221/2182a stack. I strongly prefer working in Python, due to user-friendliness and the fact that Python is free and open-source. 
+This is an old project that Nick Hartman did in Labview for the Keithley 6221/2182a stack. I strongly prefer working in Python, due to user-friendliness and the fact that Python is free and open-source, so it was my starting point for the Python adaptation. 
